@@ -1,0 +1,19 @@
+{
+  "name": "vuepress-2021",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "f2elint": "^1.2.3",
+    "postcss": "^8.4.4",
+    "postcss-loader": "^6.2.1",
+    "vuepress": "^2.0.0-beta.27"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs",
+    "f2elint-scan": "f2elint scan",
+    "f2elint-fix": "f2elint fix",
+    "prepare": "husky install"
+  }
+}
