@@ -14,6 +14,10 @@ const navbar = [
     text: '2018',
     link: '/2018/',
   },
+  {
+    text: '2019',
+    link: '/2019/',
+  },
 ];
 // 主题配置
 const themeConfig = {

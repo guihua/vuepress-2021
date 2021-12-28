@@ -120,5 +120,72 @@
         "/2018/11/19.reg.md"
       ]
     }
+  ],
+  "2019": [
+    {
+      "2019.01": [
+        "/2019/01/25.react.spring.md",
+        "/2019/01/09.taiji.loading.md",
+        "/2019/01/10.flip.md",
+        "/2019/01/10.product.design.md",
+        "/2019/01/11.flipping.js.md",
+        "/2019/01/14.css.values.and.utils.md",
+        "/2019/01/15.ios.webview.md",
+        "/2019/01/15.webview.load.html.md",
+        "/2019/01/16.image.size.md",
+        "/2019/01/16.safe.area.md",
+        "/2019/01/18.request.md",
+        "/2019/01/21.js.modal.plugin.md",
+        "/2019/01/22.ios.date.md",
+        "/2019/01/22.ios.dict.to.string.md",
+        "/2019/01/22.ios.string.empty.md",
+        "/2019/01/23.AFN.request.md",
+        "/2019/01/23.ios.framework.md",
+        "/2019/01/25.daily.news.md",
+        "/2019/01/28.css.condition.md",
+        "/2019/01/28.css.tricks.md",
+        "/2019/01/30.cross.domain.md"
+      ]
+    },
+    {
+      "2019.02": [
+        "/2019/02/11.paper.md",
+        "/2019/02/12.redux.md",
+        "/2019/02/12.vditor.md",
+        "/2019/02/13.material-ui.md",
+        "/2019/02/14.typescript.tutorial.md",
+        "/2019/02/15.bundlephobia.md",
+        "/2019/02/15.extract.css.md",
+        "/2019/02/15.fe.md",
+        "/2019/02/18.react.hooks.md",
+        "/2019/02/19.frontend.tutorial.md",
+        "/2019/02/19.poem.1.md",
+        "/2019/02/19.poem.2.md",
+        "/2019/02/21.mac.rar.md",
+        "/2019/02/27.poem.md",
+        "/2019/02/27.ssh.md"
+      ]
+    },
+    {
+      "2019.03": [
+        "2019/03/12.icss.md",
+        "2019/03/04.vue.config.md",
+        "2019/03/08.react.dnd.md",
+        "2019/03/11.ajax.corb.md",
+        "2019/03/12.draggable.js.md",
+        "2019/03/12.flipping.js.md",
+        "2019/03/12.gatsby.md",
+        "2019/03/12.impress.js.md",
+        "2019/03/12.lozad.js.md",
+        "2019/03/13.blog.collection.md",
+        "2019/03/13.dependency.md",
+        "2019/03/13.dev.dependency.md",
+        "2019/03/13.react.media.md",
+        "2019/03/13.react.responsive.md",
+        "2019/03/14.ip.address.md",
+        "2019/03/24.ios.nsurlsession.md",
+        "2019/03/29.adb.md"
+      ]
+    }
   ]
 }
