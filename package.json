@@ -1,19 +1,24 @@
 {
   "name": "vuepress-2021",
   "version": "1.0.0",
+  "description": "石斑鱼杂记",
   "main": "index.js",
   "license": "MIT",
-  "devDependencies": {
-    "f2elint": "^1.2.3",
-    "postcss": "^8.4.4",
-    "postcss-loader": "^6.2.1",
-    "vuepress": "^2.0.0-beta.27"
-  },
   "scripts": {
+    "build-entry": "node ./bin/build-entry.js",
     "docs:dev": "vuepress dev docs",
     "docs:build": "vuepress build docs",
     "f2elint-scan": "f2elint scan",
     "f2elint-fix": "f2elint fix",
     "prepare": "husky install"
+  },
+  "devDependencies": {
+    "@vuepress/plugin-container": "^2.0.0-beta.29",
+    "f2elint": "^2.1.0",
+    "husky": "^7.0.4",
+    "json-templater": "^1.2.0",
+    "postcss": "^8.4.4",
+    "postcss-loader": "^6.2.1",
+    "vuepress": "^2.0.0-beta.31"
   }
 }
