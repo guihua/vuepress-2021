@@ -2,6 +2,7 @@
 ===
 
 ## 链表数据结构
+
 链表和数组都是用于存储有序元素的集合，但有几点大不相同：
 
 1. 链表不同于数组，链表中的元素在内存中并不是连续放置的；
@@ -19,7 +20,9 @@
 类比：寻宝游戏，你有一条线索，这条线索是指向寻找下一条线索的地点的指针。你顺着这条链接去下一个地点，得到另一条指向再下一处的线索。得到列表中间的线索的唯一办法，就是从起点(第一条线索)顺着列表寻找。
 
 ## 链表的实现
+
 链表的实现不像之前介绍的栈和队列一般依赖于数组（至少我们目前是这样实现的），它必须自己构建类并组织逻辑实现。我们先创建一个 `Node` 类：
+
 ```js
 // 节点基类
 class Node {
@@ -59,6 +62,7 @@ class LinkedList {
 下面我们来实现几个重要的方法：
 
 ### 1.`append` 方法
+
 在链表尾部添加一个新的元素可分为两种情况：
 
 - 原链表中无元素，添加元素后，`head` 和 `tail` 均指向新元素；
@@ -67,6 +71,7 @@ class LinkedList {
 ![链表 append](./images/list.append.png)
 
 代码实现
+
 ```js
 // 在链表尾端添加元素
 append(data) {
@@ -87,7 +92,9 @@ append(data) {
 ```
 
 ### 2.`print` 方法
+
 为方便验证，我们先实现 `print` 方法。方法虽简单，这里却涉及到链表遍历精髓：
+
 ```js
 // 打印链表
 print() {
@@ -115,7 +122,9 @@ link.print(); // 1 --> 2 --> 3
 ```
 
 ### 3.`getNode` 方法
+
 获取指定索引位置的节点，依次遍历链表，直到指定位置返回：
+
 ```js
 // 获取指定位置元素
 getNode(index) {
@@ -137,6 +146,7 @@ console.log(link.getNode(3)); // null
 ```
 
 ### 4.`insert` 方法
+
 插入元素，需要考虑三种情况
 
 - 插入尾部，相当于 `append`；
@@ -146,6 +156,7 @@ console.log(link.getNode(3)); // null
 ![链表 insert](./images/list.insert.png)
 
 代码实现
+
 ```js
 // 在链表指定位置插入元素
 insert(index, data) {
@@ -189,6 +200,7 @@ link.print(); // 0 --> 1 --> 2 --> 3 --> 4 --> 5
 ```
 
 ### 5.`removeAt` 方法
+
 在指定位置删除元素同添加元素类似。
 
 - 首部：重新定义 `_head`；
@@ -197,6 +209,7 @@ link.print(); // 0 --> 1 --> 2 --> 3 --> 4 --> 5
 ![链表 remove](./images/list.remove.png)
 
 代码实现
+
 ```js
 // 在链表指定位置移除元素
 removeAt(index) {
@@ -230,7 +243,9 @@ link.print(); // 0 --> 1 --> 2 --> 4 --> 5
 ```
 
 ### 6.其它方法
+
 完整的链表代码，可点此获取：
+
 ```js
 // 判断数据是否存在于链表内，存在返回index，否则返回-1
 indexOf(data) {
@@ -270,8 +285,11 @@ clear() {
 ```
 
 ## 链表的应用
+
 ### 1.基于链表实现的 `Stack` 和 `Queue`
+
 基于链表实现栈：
+
 ```js
 class Stack {
   constructor() {
@@ -301,6 +319,7 @@ class Stack {
 ```
 
 基于链表实现队列：
+
 ```js
 class Queue {
   constructor() {
@@ -333,12 +352,14 @@ class Queue {
 ```
 
 ### 2.链表翻转【面试常考】
-####（1）迭代法
+
+#### （1）迭代法
 迭代法的核心就是 `currNode.next = prevNode`，然后从头部一次向后轮询：
 
 ![链表翻转](./images/list.turn.png)
 
 代码实现
+
 ```js
 reverse() {
   if (!this._head) {
@@ -367,8 +388,9 @@ reverse() {
 }
 ```
 
-####（2）递归法
+#### （2）递归法
 递归的本质就是执行到当前位置时，自己并不去解决，而是等下一阶段执行。直到递归终止条件，然后再依次向上执行：
+
 ```js
 function _reverseByRecusive(node) {
   if (!node) {
@@ -390,7 +412,9 @@ _reverseByRecusive(this._head);
 ```
 
 ### 3.链表逆向输出
+
 利用递归，反向输出：
+
 ```js
 function _reversePrint(node){
   if(!node) {
@@ -404,12 +428,15 @@ function _reversePrint(node){
 ```
 
 ## 双向链表和循环链表
+
 ### 1.双向链表
+
 双向链表和普通链表的区别在于，在链表中，一个节点只有链向下一个节点的链接，而在双向链表中，链接是双向的：一个链向下一个元素，另一个链向前一个元素，如下图：
 
 ![双向链表](./images/double.link.list.png)
 
 正是因为这种变化，使得链表相邻节点之间不仅只有单向关系，可以通过 `prev` 来访问当前节点的上一节点。相应的，双向循环链表的基类也有变化：
+
 ```js
 class Node {
   constructor(data) {
@@ -421,6 +448,7 @@ class Node {
 ```
 
 继承单向链表后，最终的双向循环链表 `DoublyLinkedList` 如下【`prev` 对应的更改为 `NEW`】：
+
 ```js
 class DoublyLinkedList extends LinkedList {
   constructor() {
@@ -510,11 +538,13 @@ class DoublyLinkedList extends LinkedList {
 ```
 
 ### 2.循环链表
+
 循环链表可以像链表一样只有单向引用，也可以像双向链表一样有双向引用。循环链表和链 表之间唯一的区别在于，单向循环链表最后一个节点指向下一个节点的指针 `tail.next` 不是引用 `null`， 而是指向第一个节点 `head`，双向循环链表的第一个节点指向上一节点的指针 `head.prev` 不是引用 `null`，而是指向最后一个节点 `tail`。
 
 ![循环链表](./images/list.loop.png)
 
 ## 总结
+
 链表的实现较于栈和队列的实现复杂许多，同样的，链表的功能更加强大。
 
 我们可以通过链表实现栈和队列，同样也可以通过链表来实现栈和队列的问题。
