@@ -1,7 +1,7 @@
 const theme = '@vuepress/default';
 const title = '龙趸';
 const description = '石斑鱼杂记';
-const logo = 'https://resource.lanniuh.com/common/logo.png';
+const logo = '/images/logo.png';
 const base = '/';
 const search = true;
 // 导航栏配置
@@ -9,6 +9,10 @@ const navbar = [
   {
     text: 'Home',
     link: '/',
+  },
+  {
+    text: '2017',
+    link: '/2017/',
   },
   {
     text: '2018',
@@ -25,14 +29,16 @@ const themeConfig = {
   repoLabel: 'Github 地址',
 };
 // 插件配置
-const plugins = [['@vuepress/plugin-container', true]];
+const plugins = [
+  ['@vuepress/plugin-container', true],
+];
 // 额外 HTML 配置
 const head = [
   [
     'link',
     {
       rel: 'icon',
-      href: 'https://resource.lanniuh.com/common/logo.ico',
+      href: '/images/favicon.png',
     },
   ],
 ];
