@@ -11,6 +11,10 @@ const navbar = [
     link: '/',
   },
   {
+    text: '2016',
+    link: '/2016/',
+  },
+  {
     text: '2017',
     link: '/2017/',
   },
@@ -29,9 +33,7 @@ const themeConfig = {
   repoLabel: 'Github 地址',
 };
 // 插件配置
-const plugins = [
-  ['@vuepress/plugin-container', true],
-];
+const plugins = [['@vuepress/plugin-container', true]];
 // 额外 HTML 配置
 const head = [
   [

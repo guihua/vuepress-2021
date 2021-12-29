@@ -1,4 +1,33 @@
 {
+  "2016": [
+    {
+      "HTML5 表单": [
+        "/2016/html5/input.md",
+        "/2016/html5/element.md",
+        "/2016/html5/attribute.md"
+      ]
+    },
+    {
+      "HTML5 功能": [
+        "/2016/html5/video.md",
+        "/2016/html5/audio.md",
+        "/2016/html5/drag.md",
+        "/2016/html5/canvas.md",
+        "/2016/html5/canvas2.md",
+        "/2016/html5/svg.md",
+        "/2016/html5/geolocation.md",
+        "/2016/html5/storage.md",
+        "/2016/html5/manifest.md",
+        "/2016/html5/worker.md",
+        "/2016/html5/server-event.md"
+      ]
+    },
+    {
+      "HTML5 杂谈": [
+        "/2016/html5/download.md"
+      ]
+    }
+  ],
   "2017": [
     {
       "2017.02": [

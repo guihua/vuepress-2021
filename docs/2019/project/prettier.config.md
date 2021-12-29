@@ -13,7 +13,9 @@ Prettier 具有以下几个有优点：
 使用 Prettier 在 code review 时不需要再讨论代码样式，节省了时间与精力。
 
 ## Prettier 使用
+
 安装 prettier：
+
 ```bash
 npm i --dev prettier
 ```
@@ -23,7 +25,9 @@ Prettier 项目规范：[Prettier](./rules/.prettierrc)
 在实际项目中，需要屏蔽某一些文件的检查时，可以设置 `prettierignore` 规则：[.prettierignore](./rules/.prettierignore)
 
 ## Prettier 结合 ESLint 一起使用
+
 首先，安装依赖：
+
 ```bash
 npm i --dev eslint-config-prettier
 ```
@@ -31,7 +35,9 @@ npm i --dev eslint-config-prettier
 很多项目都会使用ESLint来提高代码的质量，有两种方式能够集成 Prettier 和 ESLint，你也可以单独或同时使用它们。
 
 ### 使用 ESLint 运行 Prettier
+
 配置 `.eslintrc.js`：
+
 ```js
 {
   "plugins": ["prettier"],
@@ -42,6 +48,7 @@ npm i --dev eslint-config-prettier
 ```
 
 ### 关闭 ESLint 的格式规则
+
 ```js
 {
   "extends": ["prettier"]
