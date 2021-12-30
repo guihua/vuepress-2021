@@ -2,7 +2,7 @@
 module.exports = {
   theme: "@vuepress/default",
   title: "龙趸",
-  base: "/vuepress-2021",
+  base: "/vuepress-2021/",
   description: "石斑鱼杂记",
   head: [["link",{"rel":"icon","href":"/images/favicon.png"}]],
   themeConfig: {
