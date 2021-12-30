@@ -54,4 +54,4 @@ jobs:
           build_dir: docs/.vuepress/dist
         env:
           # @see https://docs.github.com/cn/actions/reference/authentication-in-a-workflow#about-the-github_token-secret
-          GITHUB_TOKEN: ${{ secrets.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 }}
+          GITHUB_TOKEN: ${{ secrets.WEBSITE_TOKEN }}
