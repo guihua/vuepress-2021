@@ -2,7 +2,7 @@ const theme = '@vuepress/default';
 const title = '龙趸';
 const description = '石斑鱼杂记';
 const logo = '/images/logo.png';
-const base = '/vuepress-2021/';
+// const base = '/';
 const search = true;
 // 导航栏配置
 const navbar = [
@@ -50,7 +50,7 @@ const others = {};
 module.exports = {
   theme,
   title,
-  base,
+  // base,
   description,
   logo,
   search,

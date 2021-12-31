@@ -2,7 +2,6 @@
 module.exports = {
   theme: "{{theme}}",
   title: "{{title}}",
-  base: "{{base}}",
   description: "{{description}}",
   head: {{head}},
   themeConfig: {
