@@ -40,7 +40,7 @@ const head = [
     'link',
     {
       rel: 'icon',
-      href: '/images/favicon.png',
+      href: './images/favicon.png',
     },
   ],
 ];

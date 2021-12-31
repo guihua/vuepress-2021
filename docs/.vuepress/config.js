@@ -4,7 +4,7 @@ module.exports = {
   title: "龙趸",
   base: "/vuepress-2021/",
   description: "石斑鱼杂记",
-  head: [["link",{"rel":"icon","href":"/images/favicon.png"}]],
+  head: [["link",{"rel":"icon","href":"./images/favicon.png"}]],
   themeConfig: {
     logo: "/images/logo.png",
     navbar: [{"text":"Home","link":"/"},{"text":"HTML","link":"/html/"},{"text":"2017","link":"/2017/"},{"text":"2018","link":"/2018/"},{"text":"2019","link":"/2019/"}],
