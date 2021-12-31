@@ -1,33 +1,33 @@
 {
-  "2016": [
+  "HTML": [
     {
       "HTML5 表单": [
-        "/2016/html5/input.md",
-        "/2016/html5/element.md",
-        "/2016/html5/attribute.md"
+        "/html/html5/input.md",
+        "/html/html5/element.md",
+        "/html/html/html5/attribute.md"
       ]
     },
     {
       "HTML5 功能": [
-        "/2016/html5/video.md",
-        "/2016/html5/audio.md",
-        "/2016/html5/drag.md",
-        "/2016/html5/canvas.md",
-        "/2016/html5/canvas2.md",
-        "/2016/html5/svg.md",
-        "/2016/html5/geolocation.md",
-        "/2016/html5/storage.md",
-        "/2016/html5/manifest.md",
-        "/2016/html5/worker.md",
-        "/2016/html5/file.md",
-        "/2016/html5/window.history.md",
-        "/2016/html5/css.retina.md",
-        "/2016/html5/css.will.change.md"
+        "/html/html5/video.md",
+        "/html/html5/audio.md",
+        "/html/html5/drag.md",
+        "/html/html5/canvas.md",
+        "/html/html5/canvas2.md",
+        "/html/html5/svg.md",
+        "/html/html5/geolocation.md",
+        "/html/html5/storage.md",
+        "/html/html5/manifest.md",
+        "/html/html5/worker.md",
+        "/html/html5/file.md",
+        "/html/html5/window.history.md",
+        "/html/html5/css.retina.md",
+        "/html/html5/css.will.change.md"
       ]
     },
     {
       "HTML5 杂谈": [
-        "/2016/html5/download.md"
+        "/html/html5/download.md"
       ]
     }
   ],

@@ -11,8 +11,8 @@ const navbar = [
     link: '/',
   },
   {
-    text: '2016',
-    link: '/2016/',
+    text: 'HTML',
+    link: '/html/',
   },
   {
     text: '2017',
