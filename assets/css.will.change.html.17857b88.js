@@ -1,0 +1,1 @@
+const t={key:"v-028a3d30",path:"/html/html5/css.will.change.html",title:"CSS3 will-change",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1640960789e3,contributors:[{name:"guihua.pgh",email:"guihuapeng@126.com",commits:1}]},filePathRelative:"html/html5/css.will.change.md"};export{t as data};

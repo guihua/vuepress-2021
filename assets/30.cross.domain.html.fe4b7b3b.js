@@ -1,0 +1,1 @@
+const t={key:"v-46c40d98",path:"/2019/01/30.cross.domain.html",title:"\u8DE8\u57DF\u5B9E\u73B0",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1640700414e3,contributors:[{name:"\u9F99\u8DB8",email:"guihuapeng@126.com",commits:1}]},filePathRelative:"2019/01/30.cross.domain.md"};export{t as data};

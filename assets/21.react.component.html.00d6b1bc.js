@@ -1,0 +1,1 @@
+const t={key:"v-441d4286",path:"/2017/09/21.react.component.html",title:"React \u6280\u672F\u6808\uFF1A\u7EC4\u4EF6\u7C7B\u578B",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1640751922e3,contributors:[{name:"guihua",email:"guihuapeng@126.com",commits:2}]},filePathRelative:"2017/09/21.react.component.md"};export{t as data};

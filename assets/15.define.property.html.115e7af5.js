@@ -1,0 +1,1 @@
+const e={key:"v-01220c04",path:"/2018/01/15.define.property.html",title:"Object.defineProperty()",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1640699758e3,contributors:[{name:"\u9F99\u8DB8",email:"guihuapeng@126.com",commits:1}]},filePathRelative:"2018/01/15.define.property.md"};export{e as data};

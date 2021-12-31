@@ -1,0 +1,1 @@
+const t={key:"v-1cb2f73c",path:"/2019/project/editor.config.html",title:"\u7F16\u8F91\u5668\u7F16\u7801\u98CE\u683C\u914D\u7F6E",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1640747717e3,contributors:[{name:"guihua",email:"guihuapeng@126.com",commits:1}]},filePathRelative:"2019/project/editor.config.md"};export{t as data};

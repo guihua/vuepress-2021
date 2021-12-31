@@ -1,0 +1,1 @@
+const e={key:"v-e9b0bd1c",path:"/2017/04/27.mellivora.capensis.html",title:"\u871C\u8C9B",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1640751922e3,contributors:[{name:"guihua",email:"guihuapeng@126.com",commits:2}]},filePathRelative:"2017/04/27.mellivora.capensis.md"};export{e as data};

@@ -1,0 +1,1 @@
+const e={key:"v-5d01685e",path:"/2017/03/31.media.query.html",title:"CSS \u591A\u5A92\u4F53\u67E5\u8BE2",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1640751922e3,contributors:[{name:"guihua",email:"guihuapeng@126.com",commits:2}]},filePathRelative:"2017/03/31.media.query.md"};export{e as data};

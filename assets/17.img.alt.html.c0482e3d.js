@@ -1,0 +1,1 @@
+const t={key:"v-56485934",path:"/2017/11/17.img.alt.html",title:"Img alt \u5C5E\u6027",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1640751922e3,contributors:[{name:"guihua",email:"guihuapeng@126.com",commits:2}]},filePathRelative:"2017/11/17.img.alt.md"};export{t as data};

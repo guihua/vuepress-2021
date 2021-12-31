@@ -1,0 +1,1 @@
+const e={key:"v-438a8321",path:"/2017/04/20.mobile.detect.html",title:"\u624B\u673A\u7C7B\u578B\u5224\u65AD",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1640751922e3,contributors:[{name:"guihua",email:"guihuapeng@126.com",commits:2}]},filePathRelative:"2017/04/20.mobile.detect.md"};export{e as data};

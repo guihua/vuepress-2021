@@ -1,0 +1,1 @@
+const e={key:"v-1e785d1f",path:"/2017/05/11.spm.html",title:"spm \u6253\u70B9",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1640781577e3,contributors:[{name:"guihua",email:"guihuapeng@126.com",commits:2},{name:"\u9F99\u8DB8",email:"guihuapeng@126.com",commits:1}]},filePathRelative:"2017/05/11.spm.md"};export{e as data};

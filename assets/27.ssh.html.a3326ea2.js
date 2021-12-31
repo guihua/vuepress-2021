@@ -1,0 +1,1 @@
+const t={key:"v-0a4a5506",path:"/2019/02/27.ssh.html",title:"SSH \u8FDC\u7A0B\u4E0A\u4F20\u3001\u4E0B\u8F7D\u6587\u4EF6",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1640700414e3,contributors:[{name:"\u9F99\u8DB8",email:"guihuapeng@126.com",commits:1}]},filePathRelative:"2019/02/27.ssh.md"};export{t as data};

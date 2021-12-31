@@ -1,0 +1,1 @@
+const t={key:"v-574c6d4f",path:"/2017/07/07.css.heart.html",title:"CSS3 Heart",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1640751922e3,contributors:[{name:"guihua",email:"guihuapeng@126.com",commits:2}]},filePathRelative:"2017/07/07.css.heart.md"};export{t as data};

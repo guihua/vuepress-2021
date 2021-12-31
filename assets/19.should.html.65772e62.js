@@ -1,0 +1,1 @@
+const t={key:"v-390afd37",path:"/2017/06/19.should.html",title:"Should",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1640751922e3,contributors:[{name:"guihua",email:"guihuapeng@126.com",commits:2}]},filePathRelative:"2017/06/19.should.md"};export{t as data};

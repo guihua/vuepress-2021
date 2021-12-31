@@ -1,0 +1,5 @@
+import{d as e}from"./app.147292e0.js";import{_ as s}from"./plugin-vue_export-helper.21dcd24c.js";const a={},n=e(`<h1 id="mac-\u89E3\u51B3\u7AEF\u53E3\u5360\u7528" tabindex="-1"><a class="header-anchor" href="#mac-\u89E3\u51B3\u7AEF\u53E3\u5360\u7528" aria-hidden="true">#</a> MAC \u89E3\u51B3\u7AEF\u53E3\u5360\u7528</h1><p>\u67E5\u770B\u7AEF\u53E3</p><div class="language-text ext-text line-numbers-mode"><pre class="language-text"><code># port \u4E3A\u5BF9\u5E94\u88AB\u5360\u7528\u7684\u7AEF\u53E3
+lsof -i tcp:port
+</code></pre><div class="line-numbers"><span class="line-number">1</span><br><span class="line-number">2</span><br></div></div><p>kill \u8FDB\u7A0B</p><div class="language-text ext-text line-numbers-mode"><pre class="language-text"><code># \u627E\u5230\u8FDB\u7A0B\u7684PID,\u4F7F\u7528 kill \u547D\u4EE4
+kill PID
+</code></pre><div class="line-numbers"><span class="line-number">1</span><br><span class="line-number">2</span><br></div></div>`,5);function r(t,l){return n}var p=s(a,[["render",r]]);export{p as default};

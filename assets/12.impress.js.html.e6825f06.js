@@ -1,0 +1,1 @@
+const e={key:"v-c654c220",path:"/2019/03/12.impress.js.html",title:"Impress.js",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1640700414e3,contributors:[{name:"\u9F99\u8DB8",email:"guihuapeng@126.com",commits:1}]},filePathRelative:"2019/03/12.impress.js.md"};export{e as data};

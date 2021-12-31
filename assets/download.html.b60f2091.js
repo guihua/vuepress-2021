@@ -1,0 +1,1 @@
+const t={key:"v-3286d4fe",path:"/html/html5/download.html",title:"HTML5 \u4E2D\u7684 download \u5C5E\u6027",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1640960789e3,contributors:[{name:"guihua.pgh",email:"guihuapeng@126.com",commits:1}]},filePathRelative:"html/html5/download.md"};export{t as data};

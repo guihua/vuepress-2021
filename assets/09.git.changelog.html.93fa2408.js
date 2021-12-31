@@ -1,0 +1,1 @@
+const t={key:"v-0a53d78b",path:"/2017/02/09.git.changelog.html",title:"Git Changelog",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1640747699e3,contributors:[{name:"guihua",email:"guihuapeng@126.com",commits:1}]},filePathRelative:"2017/02/09.git.changelog.md"};export{t as data};

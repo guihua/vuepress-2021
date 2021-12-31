@@ -1,0 +1,1 @@
+const t={key:"v-8bfff70a",path:"/2017/05/09.eslint.html",title:"eslint \u914D\u7F6E",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1640751922e3,contributors:[{name:"guihua",email:"guihuapeng@126.com",commits:2}]},filePathRelative:"2017/05/09.eslint.md"};export{t as data};

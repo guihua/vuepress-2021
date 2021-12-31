@@ -1,0 +1,1 @@
+const e={key:"v-e618b6c4",path:"/2018/07/17.word.html",title:"\u200B \u77ED\u6587",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1640787796e3,contributors:[{name:"guihua.pgh",email:"guihuapeng@126.com",commits:1},{name:"\u9F99\u8DB8",email:"guihuapeng@126.com",commits:1}]},filePathRelative:"2018/07/17.word.md"};export{e as data};

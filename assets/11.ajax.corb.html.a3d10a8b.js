@@ -1,0 +1,1 @@
+const e={key:"v-c6be04be",path:"/2019/03/11.ajax.corb.html",title:"AJAX \u8DE8\u57DF",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1640700414e3,contributors:[{name:"\u9F99\u8DB8",email:"guihuapeng@126.com",commits:1}]},filePathRelative:"2019/03/11.ajax.corb.md"};export{e as data};

@@ -1,0 +1,1 @@
+const e={key:"v-3eec1ec7",path:"/2019/02/15.bundlephobia.html",title:"bundlephobia",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1640700414e3,contributors:[{name:"\u9F99\u8DB8",email:"guihuapeng@126.com",commits:1}]},filePathRelative:"2019/02/15.bundlephobia.md"};export{e as data};

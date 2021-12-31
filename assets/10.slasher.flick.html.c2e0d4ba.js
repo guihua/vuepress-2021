@@ -1,0 +1,1 @@
+const e={key:"v-bb239d38",path:"/2018/01/10.slasher.flick.html",title:"Slasher Flick",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1640699758e3,contributors:[{name:"\u9F99\u8DB8",email:"guihuapeng@126.com",commits:1}]},filePathRelative:"2018/01/10.slasher.flick.md"};export{e as data};

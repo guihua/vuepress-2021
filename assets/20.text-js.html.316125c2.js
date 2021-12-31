@@ -1,0 +1,1 @@
+const t={key:"v-25089f7a",path:"/2017/11/20.text-js.html",title:"JS \u6587\u672C\u5904\u7406",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1640751922e3,contributors:[{name:"guihua",email:"guihuapeng@126.com",commits:2}]},filePathRelative:"2017/11/20.text-js.md"};export{t as data};

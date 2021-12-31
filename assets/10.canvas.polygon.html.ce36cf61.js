@@ -1,0 +1,1 @@
+const a={key:"v-069c0c6a",path:"/2017/canvas/10.canvas.polygon.html",title:"Canvas \u7ED8\u5236\u591A\u8FB9\u5F62",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1640751922e3,contributors:[{name:"guihua",email:"guihuapeng@126.com",commits:2}]},filePathRelative:"2017/canvas/10.canvas.polygon.md"};export{a as data};

@@ -1,0 +1,1 @@
+const e={key:"v-4c0fdc2c",path:"/2018/09/06.vscode.plugins.html",title:"vscode \u5E38\u7528\u63D2\u4EF6",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1640699758e3,contributors:[{name:"\u9F99\u8DB8",email:"guihuapeng@126.com",commits:1}]},filePathRelative:"2018/09/06.vscode.plugins.md"};export{e as data};

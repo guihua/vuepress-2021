@@ -1,0 +1,1 @@
+const e={key:"v-731f657e",path:"/2018/10/30.louis.cha.html",title:"\u98DE\u96EA\u8FDE\u5929\u5C04\u767D\u9E7F\uFF0C\u7B11\u4E66\u795E\u4FA0\u501A\u78A7\u9E33",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1640699758e3,contributors:[{name:"\u9F99\u8DB8",email:"guihuapeng@126.com",commits:1}]},filePathRelative:"2018/10/30.louis.cha.md"};export{e as data};

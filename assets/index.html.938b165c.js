@@ -1,0 +1,1 @@
+const e={key:"v-119a28b0",path:"/2019/",title:"PIG JOTTINGS",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1640747717e3,contributors:[{name:"guihua",email:"guihuapeng@126.com",commits:1},{name:"\u9F99\u8DB8",email:"guihuapeng@126.com",commits:1}]},filePathRelative:"2019/README.md"};export{e as data};

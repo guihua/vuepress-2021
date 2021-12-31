@@ -1,0 +1,1 @@
+const t={key:"v-5610e0bd",path:"/2017/04/13.vue.construct.html",title:"Vue.js \u6784\u9020",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1640751922e3,contributors:[{name:"guihua",email:"guihuapeng@126.com",commits:2}]},filePathRelative:"2017/04/13.vue.construct.md"};export{t as data};

@@ -1,0 +1,1 @@
+const e={key:"v-21dca9c4",path:"/2018/06/19.npm.package.html",title:"npm JSON \u5C5E\u6027\u8BE6\u89E3",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1640699758e3,contributors:[{name:"\u9F99\u8DB8",email:"guihuapeng@126.com",commits:1}]},filePathRelative:"2018/06/19.npm.package.md"};export{e as data};

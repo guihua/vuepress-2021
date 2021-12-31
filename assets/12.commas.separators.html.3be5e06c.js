@@ -1,0 +1,1 @@
+const a={key:"v-516a5aab",path:"/2018/01/12.commas.separators.html",title:"JavaScript \u5904\u7406\u6570\u5B57\u5206\u4F4D\u7B26\u53F7",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1640699758e3,contributors:[{name:"\u9F99\u8DB8",email:"guihuapeng@126.com",commits:1}]},filePathRelative:"2018/01/12.commas.separators.md"};export{a as data};

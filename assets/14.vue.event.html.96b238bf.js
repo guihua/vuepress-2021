@@ -1,0 +1,1 @@
+const e={key:"v-d2bd518e",path:"/2017/04/14.vue.event.html",title:"\u4E8B\u4EF6\u4FEE\u9970\u7B26",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1640751922e3,contributors:[{name:"guihua",email:"guihuapeng@126.com",commits:2}]},filePathRelative:"2017/04/14.vue.event.md"};export{e as data};

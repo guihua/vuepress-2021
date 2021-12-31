@@ -1,0 +1,1 @@
+const t={key:"v-f1a8f53a",path:"/2017/06/19.%20istanbul.html",title:"Istanbul",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1640751922e3,contributors:[{name:"guihua",email:"guihuapeng@126.com",commits:2}]},filePathRelative:"2017/06/19. istanbul.md"};export{t as data};

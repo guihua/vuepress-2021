@@ -1,0 +1,11 @@
+import{d as n}from"./app.147292e0.js";import{_ as s}from"./plugin-vue_export-helper.21dcd24c.js";const a={},p=n(`<h1 id="\u5B57\u7B26\u4E32\u957F\u5EA6\u8865\u9F50" tabindex="-1"><a class="header-anchor" href="#\u5B57\u7B26\u4E32\u957F\u5EA6\u8865\u9F50" aria-hidden="true">#</a> \u5B57\u7B26\u4E32\u957F\u5EA6\u8865\u9F50</h1><p>\u5B57\u7B26\u4E32\u957F\u5EA6\u4E0D\u8DB3\u65F6\uFF0C\u5728\u524D\u9762\u52A0 <code>0</code>\uFF1A</p><div class="language-javascript ext-js line-numbers-mode"><pre class="language-javascript"><code><span class="token keyword">function</span> <span class="token function">pad</span><span class="token punctuation">(</span><span class="token parameter">num<span class="token punctuation">,</span> n</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
+    <span class="token keyword">var</span> len <span class="token operator">=</span> num<span class="token punctuation">.</span><span class="token function">toString</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">.</span>length<span class="token punctuation">;</span>
+
+    <span class="token keyword">while</span><span class="token punctuation">(</span>len <span class="token operator">&lt;</span> n<span class="token punctuation">)</span> <span class="token punctuation">{</span>
+        num <span class="token operator">=</span> <span class="token string">&quot;0&quot;</span> <span class="token operator">+</span> num<span class="token punctuation">;</span>
+        len<span class="token operator">++</span><span class="token punctuation">;</span>
+    <span class="token punctuation">}</span>
+
+    <span class="token keyword">return</span> num<span class="token punctuation">;</span>
+<span class="token punctuation">}</span>
+</code></pre><div class="line-numbers"><span class="line-number">1</span><br><span class="line-number">2</span><br><span class="line-number">3</span><br><span class="line-number">4</span><br><span class="line-number">5</span><br><span class="line-number">6</span><br><span class="line-number">7</span><br><span class="line-number">8</span><br><span class="line-number">9</span><br><span class="line-number">10</span><br></div></div>`,3);function e(t,o){return p}var r=s(a,[["render",e]]);export{r as default};

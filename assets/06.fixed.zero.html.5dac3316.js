@@ -1,0 +1,1 @@
+const e={key:"v-1c0641ad",path:"/2018/11/06.fixed.zero.html",title:"FixedZero \u8865\u96F6",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1640699758e3,contributors:[{name:"\u9F99\u8DB8",email:"guihuapeng@126.com",commits:1}]},filePathRelative:"2018/11/06.fixed.zero.md"};export{e as data};

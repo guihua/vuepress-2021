@@ -1,0 +1,1 @@
+const e={key:"v-5a5b4d58",path:"/2017/04/12.html.encode.html",title:"HTML \u8F6C\u4E49+\u8FC7\u6EE4",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1640751922e3,contributors:[{name:"guihua",email:"guihuapeng@126.com",commits:2}]},filePathRelative:"2017/04/12.html.encode.md"};export{e as data};

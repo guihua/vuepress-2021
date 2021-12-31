@@ -1,0 +1,1 @@
+const e={key:"v-00808e46",path:"/2019/03/13.react.responsive.html",title:"React Responsive",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1640700414e3,contributors:[{name:"\u9F99\u8DB8",email:"guihuapeng@126.com",commits:1}]},filePathRelative:"2019/03/13.react.responsive.md"};export{e as data};

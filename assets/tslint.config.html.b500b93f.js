@@ -1,0 +1,1 @@
+const t={key:"v-1ea38551",path:"/2019/project/tslint.config.html",title:"TSLint \u914D\u7F6E",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1640751922e3,contributors:[{name:"guihua",email:"guihuapeng@126.com",commits:2}]},filePathRelative:"2019/project/tslint.config.md"};export{t as data};

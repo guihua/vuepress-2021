@@ -1,0 +1,1 @@
+const e={key:"v-119a2872",path:"/2017/",title:"2017-memories",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1640747699e3,contributors:[{name:"guihua",email:"guihuapeng@126.com",commits:1}]},filePathRelative:"2017/README.md"};export{e as data};

@@ -1,0 +1,1 @@
+const e={key:"v-a3813896",path:"/2019/02/12.redux.html",title:"\u57FA\u4E8E Redux \u7684\u72B6\u6001\u7BA1\u7406",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1640700414e3,contributors:[{name:"\u9F99\u8DB8",email:"guihuapeng@126.com",commits:1}]},filePathRelative:"2019/02/12.redux.md"};export{e as data};

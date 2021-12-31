@@ -1,0 +1,1 @@
+const t={key:"v-086ab92e",path:"/2017/06/28.git.tutorial.html",title:"Git \u6559\u7A0B",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1640751922e3,contributors:[{name:"guihua",email:"guihuapeng@126.com",commits:2}]},filePathRelative:"2017/06/28.git.tutorial.md"};export{t as data};

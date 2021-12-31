@@ -1,0 +1,1 @@
+const e={key:"v-5f564656",path:"/2019/01/16.safe.area.html",title:"iOS \u5B89\u5168\u533A\u57DF",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1640700414e3,contributors:[{name:"\u9F99\u8DB8",email:"guihuapeng@126.com",commits:1}]},filePathRelative:"2019/01/16.safe.area.md"};export{e as data};

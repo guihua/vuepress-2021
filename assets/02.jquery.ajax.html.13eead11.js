@@ -1,0 +1,1 @@
+const e={key:"v-3d27c9bd",path:"/2017/05/02.jquery.ajax.html",title:"jQuery AJAX",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1640751922e3,contributors:[{name:"guihua",email:"guihuapeng@126.com",commits:2}]},filePathRelative:"2017/05/02.jquery.ajax.md"};export{e as data};

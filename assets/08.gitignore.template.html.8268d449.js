@@ -1,0 +1,1 @@
+const t={key:"v-49f2ff6a",path:"/2017/02/08.gitignore.template.html",title:"git ignore template",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1640747699e3,contributors:[{name:"guihua",email:"guihuapeng@126.com",commits:1}]},filePathRelative:"2017/02/08.gitignore.template.md"};export{t as data};

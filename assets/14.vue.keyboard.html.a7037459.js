@@ -1,0 +1,1 @@
+const e={key:"v-02d6ba58",path:"/2017/04/14.vue.keyboard.html",title:"\u6309\u952E\u4FEE\u9970\u7B26",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1640751922e3,contributors:[{name:"guihua",email:"guihuapeng@126.com",commits:2}]},filePathRelative:"2017/04/14.vue.keyboard.md"};export{e as data};

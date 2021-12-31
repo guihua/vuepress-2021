@@ -1,0 +1,1 @@
+const a={key:"v-6166a857",path:"/2017/dva/03.dva.api.html",title:"DVA API",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1640751922e3,contributors:[{name:"guihua",email:"guihuapeng@126.com",commits:2}]},filePathRelative:"2017/dva/03.dva.api.md"};export{a as data};

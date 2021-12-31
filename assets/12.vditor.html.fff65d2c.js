@@ -1,0 +1,1 @@
+const t={key:"v-e9b399e6",path:"/2019/02/12.vditor.html",title:"Vditor \u7F16\u8F91\u5668",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1640700414e3,contributors:[{name:"\u9F99\u8DB8",email:"guihuapeng@126.com",commits:1}]},filePathRelative:"2019/02/12.vditor.md"};export{t as data};

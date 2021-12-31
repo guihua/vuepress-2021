@@ -1,0 +1,1 @@
+const e={key:"v-14b2ee8b",path:"/html/",title:"HTML5 \u5B66\u4E60\u672D\u8BB0",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1640960789e3,contributors:[{name:"guihua.pgh",email:"guihuapeng@126.com",commits:1}]},filePathRelative:"html/README.md"};export{e as data};

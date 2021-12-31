@@ -1,0 +1,1 @@
+const a={key:"v-0832da05",path:"/2017/canvas/01.canvas.start.html",title:"Canvas \u5143\u7D20",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1640751922e3,contributors:[{name:"guihua",email:"guihuapeng@126.com",commits:2}]},filePathRelative:"2017/canvas/01.canvas.start.md"};export{a as data};

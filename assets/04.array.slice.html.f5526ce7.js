@@ -1,0 +1,1 @@
+const e={key:"v-4b150ca9",path:"/2018/01/04.array.slice.html",title:"Array slice() \u65B9\u6CD5",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1640699758e3,contributors:[{name:"\u9F99\u8DB8",email:"guihuapeng@126.com",commits:1}]},filePathRelative:"2018/01/04.array.slice.md"};export{e as data};

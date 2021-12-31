@@ -1,0 +1,1 @@
+const e={key:"v-9e15836a",path:"/2017/10/10.react.pure.function.html",title:"\u65E0\u72B6\u6001\u7EC4\u4EF6",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1640751922e3,contributors:[{name:"guihua",email:"guihuapeng@126.com",commits:2}]},filePathRelative:"2017/10/10.react.pure.function.md"};export{e as data};

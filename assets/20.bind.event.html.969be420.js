@@ -1,0 +1,1 @@
+const e={key:"v-587361d9",path:"/2017/04/20.bind.event.html",title:"\u4E8B\u4EF6\u7ED1\u5B9A",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1640751922e3,contributors:[{name:"guihua",email:"guihuapeng@126.com",commits:2}]},filePathRelative:"2017/04/20.bind.event.md"};export{e as data};

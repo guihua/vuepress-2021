@@ -1,0 +1,1 @@
+const t={key:"v-070eafc8",path:"/2018/01/10.string.truncate.html",title:"\u4F7F\u7528 JavaScript \u622A\u65AD\u5B57\u7B26\u4E32",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1640699758e3,contributors:[{name:"\u9F99\u8DB8",email:"guihuapeng@126.com",commits:1}]},filePathRelative:"2018/01/10.string.truncate.md"};export{t as data};

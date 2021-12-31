@@ -1,0 +1,1 @@
+const t={key:"v-cbd17500",path:"/2019/project/eslint.config.html",title:"ESLint \u6821\u9A8C\u89C4\u5219\u914D\u7F6E",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1640751922e3,contributors:[{name:"guihua",email:"guihuapeng@126.com",commits:2}]},filePathRelative:"2019/project/eslint.config.md"};export{t as data};
