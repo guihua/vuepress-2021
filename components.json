@@ -1,10 +1,10 @@
 {
-  "HTML": [
+  "html": [
     {
       "HTML5 表单": [
         "/html/html5/input.md",
         "/html/html5/element.md",
-        "/html/html/html5/attribute.md"
+        "/html/html5/attribute.md"
       ]
     },
     {
